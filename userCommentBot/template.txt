@@ -1,0 +1,31 @@
+<div style="position: relative; width: 700px;max-width:100%;box-sizing:border-box; margin-top: .5em; padding: 10px; border: solid medium #add8e6; -moz-border-radius: 15px; -webkit-border-radius: 15px; border-radius: 15px; font-size: 110%;">
+<div style="position: relative; z-index:2;">
+{{Toggle|id=HideThisPage|butten=
+[[File:舰队logo.png|100px]]<big><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ruby style="vertical-align: top;"><rb><b>准备好了吗？在拂晓的水平线上刻下胜利吧！</b></rb><rp>（</rp><rt style="font-size:0.75em"><b>いいこと？暁の水平线に、胜利を刻みなさい！</b></rt><rp>）</rp></ruby></big></big><br style="clear:both"/>
+Check-mic one-two-three~<div style="text-align: right;">'''→<i class="fa fa-envelope-open-o" aria-hidden="true"></i>{{color|#00008B|<u>提督亲启</u>}}←'''</div>|content=
+<p>尊敬的各位提督：</p>
+<div>
+<p style="text-indent:32px;margin:0;padding:0;">
+向所有参与编辑与关心舰队Collection的提督们，致以真挚的感谢！感谢你们为舰队Collection作出的不懈努力与贡献！<br />
+</p>
+<p style="text-indent:32px;margin:0;padding:0;">
+弹指一挥间，五年的时光转瞬即逝。回首以往，自于镇守府就任以来，我们和我们的<ruby><rb>舰娘们</rb><rp>（</rp><rt style="font-size:0.75em">Angels</rt><rp>）</rp></ruby>一同经历过许许多多。在提督生涯中，从血战铁底湾、迎击雾之舰，到强袭特鲁克、死斗防空姬，再到最后的突入苏里高、决战莱特湾，我们有过欢笑，有过惊喜，有过疲倦，有过泪水，我们穿越战火，携手共进，完成了众多历史上本不可能完成的作战，创造了一个又一个的奇迹！我们从不问敌人有多少，只问敌人在哪里！我们，便是陆地最后的守护者，人类最高耸最坚固的城墙！
+</p>
+<p style="text-indent:32px;margin:0;padding:0;">
+屋大维临终前曾经说过：“<ruby><rb>倘若众位认为我的表演足够精彩，就请报以雷鸣般的掌声吧！</rb><rp>（</rp><rt style="font-size:0.75em">If I've done well, give loud applause, shouts of joy in this actor's cause！</rt><rp>）</rp></ruby>”。在这五周年之际，也让我们一起，向镇守府中那些与我们一同奋斗了数年的少女们报以雷鸣般的掌声(Our Love)！
+</p>
+<p style="text-indent:32px;margin:0;padding:0;">
+最后，谨代表kcwiki舰娘百科全体维护团队、萌娘百科舰队Collection区编辑组全体维护团队，祝各位提督在未来的征程中武运昌隆，铭记着我们与舰娘一起共度的一切，在新的海面上奏起英勇华丽的交响曲！
+</p>
+</div>
+<div>
+<p style="text-indent:32px;margin:0;padding:0;">
+'''“<ruby><rb>准备好了吗？在拂晓的水平线上刻下胜利吧！</rb><rp>（</rp><rt style="font-size:0.75em">いいこと？暁の水平线に、胜利を刻みなさい！</rt><rp>）</rp></ruby>”'''
+</p>
+<div style="text-align: right;font-size:13px;">[[File:Kcwikilogo.png|100px|left]][[File:萌百舰区logo.png|100px|left]]
+<span style="writing-mode:tb-rl;-webkit-writing-mode:vertical-rl;text-align:start;border: solid medium #add8e6;padding:5px;height:15.5em;border-radius: 8px;">'''萌娘百科舰Ｃ维护组'''<br />'''管理员 组长''' • 蓝羽汇<br />'''管理员 荣誉组长''' • 节操酱<br />'''管理员 主编''' • 云&nbsp;霞<br />'''巡查姬 副组长''' • ００７<br />'''巡查姬 组员''' • ＢＢ兔<br />'''巡查姬 组员''' • 幽&nbsp;灵<br />'''巡查姬 组员''' • {{Writing-mode|Lord Shaw|valign=top}}<br /></span><span style="writing-mode:tb-rl;-webkit-writing-mode:vertical-rl;text-align:start;border: solid medium #add8e6;padding:5px;vertical-align: top;height:15.5em;margin-left: 1em;border-radius: 8px;">'''{{Writing-mode|kcwiki|valign=top}}舰娘百科维护组'''<br />'''站&emsp;长''' • {{Writing-mode|[[User:TrickLin|TrickLin]]|valign=top}}<br />'''攻略组''' • [[User:极冰之焰|极冰之焰]]<br />'''技术组''' • [[User:空鱼|空鱼]]<br />'''翻译组''' • {{Writing-mode|[[User:Homura|Homura]]|valign=top}}<br />'''美工组''' • [[User:寒风|寒风]]<br />'''宣传组''' • [[User:H喵|Ｈ喵]]<br />'''反馈组''' • {{Writing-mode|[[User:Eclair|Eclair]]|valign=top}}</span>
+<br /><br /><small>kcwiki舰娘百科全体维护团队 • 敬上<br />萌娘百科舰队Collection编辑组全体维护团队 • 敬上</small></div>
+</div>
+}}
+</div>
+</div>
